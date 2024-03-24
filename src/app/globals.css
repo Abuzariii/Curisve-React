@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "MyCustomFont";
+  /* src: url("../../public/Fonts/NotoKufiArabic-Regular.ttf"); */
+  /* src: url("../../public/Fonts/AA\ Sameer\ Armaa\ Unicode.ttf"); */
+  /* src: url("../../public/Fonts/NotoNaskhArabic-VariableFont_wght.ttf"); */
+  /* src: url("../../public/Fonts/alqalam-mehfil-regular.ttf"); */
+  src: url("../../public/Fonts/Noto_Nastaliq_Urdu/NotoNastaliqUrdu-VariableFont_wght.ttf");
+}

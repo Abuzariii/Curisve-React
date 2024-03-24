@@ -1,0 +1,7 @@
+.mainDiv {
+  width: 500px;
+  border: 1px solid black;
+
+  background-image: url("../../public/images/white.jpeg");
+  /* font-family: "MyCustomFont"; */
+}
